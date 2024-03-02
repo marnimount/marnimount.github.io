@@ -4,6 +4,7 @@ title: About
 permalink: /about
 ---
 
-# Portfolio Jekyll Theme
+# About
 
-This is a personal portfolio theme that I built from the ground up, using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). You can [check out the demo](lenpaul.github.io/portfolio-jekyll-theme/), and [fork the repository](https://github.com/LeNPaul/portfolio-jekyll-theme/fork), to get started.
+
+Marni Mount is a director, actor, and dramaturg living and working in Naarm. Focusing on new Australian writing for the stage and screen, she makes work that is formally inventive, visually imaginative, and unafraid to take on big ideas. With an interest in queer feminist dramaturgies and work that creatively engages with the canon, Marni has a reputation for making smart funny feminist work. 
