@@ -20,7 +20,7 @@ projects:
 # Contact Section
 
 social:
-- {icon: 'instagram', link: 'https://instagram.com/marnimount'}
+- {icon: 'instagram', link: 'https://instagram.com/marni.mount'}
 - {icon: 'envelope',  link: 'mailto:marni.mount@gmail.com'}
 
 # social network icons available: 'instagram'
