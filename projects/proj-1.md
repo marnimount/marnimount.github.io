@@ -27,6 +27,6 @@ Nominee - Best Performance (Gaby Seow) - 41st Annual Green Room Awards
  - Samsara Dunstan, What Did She Think
 
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-1/dog.jpg" %}
+{% include image.html image="projects/proj-1/Troph-Boys-Group.jpg" %}
 
 {% include image.html url="http://www.gratisography.com" image="projects/proj-1/wall.jpg" %}
