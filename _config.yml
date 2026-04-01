@@ -1,1 +1,2 @@
-remot_theme: Lanyon
+plugins:
+  - jekyll-remote-theme
