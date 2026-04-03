@@ -13,5 +13,5 @@ Marni has been a beneficiary of the MinterEllison Future Directors Initiative at
 
 In 2026 Marni will direct the Melbourne Premiere of *Never Closer* by Grace Chapple for Patalog Theatre and fortyfivedownstairs.
 
-You can follow Marni [on instagram](instagram.com/marnimount) or contact her [via email] (mailto:marni.mount@gmail.com) 
+You can follow Marni [on instagram](instagram.com/marnimount) or contact her [via email](mailto:marni.mount@gmail.com) 
 ​
