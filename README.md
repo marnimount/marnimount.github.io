@@ -1,9 +1,7 @@
 # Marni Mount
-
 ![A white woman with brunette hair and glasses smiles in a rehearsal room](IN DEVELOPMENT.jpg)
 
-
-actor | director | dramaturg | maker
+'actor | director | dramaturg | maker'
 
 Marni Mount is a director, actor, and dramaturg living and working in Naarm (Melbourne).
 
