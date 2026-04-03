@@ -15,5 +15,7 @@ In 2026 Marni will direct the Melbourne premiere of *Never Closer* by Grace Chap
 
 Alongside her performing and directing practice, Marni is passionate about working with and for young people, and currently does so with the [Starlight Children's Foundation](https://www.starlight.org.au/) and [Complete Works Theatre Company](https://completeworkstheatre.com/). 
 
+As a performer, Marni is represented by Buxstock Management. You can view her show reel and a full list of acting credits on [showcast](https://app.showcast.com.au/profile/marnimount).
+
 You can follow Marni [on instagram](instagram.com/marnimount) or contact her [via email](mailto:marni.mount@gmail.com) 
 ​
