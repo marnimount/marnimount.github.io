@@ -1,4 +1,8 @@
 # Marni Mount
+
+![A white woman with brunette hair and glasses smiles in a rehearsal room](IN DEVELOPMENT.jpg)
+
+
 actor | director | dramaturg | maker
 
 Marni Mount is a director, actor, and dramaturg living and working in Naarm (Melbourne).
@@ -19,5 +23,3 @@ As a performer, Marni is represented by Buxstock Management. You can view her sh
 
 You can follow Marni [on instagram](instagram.com/marnimount) or contact her [via email](mailto:marni.mount@gmail.com) 
 ​
-
-![A white woman with brunette hair and glasses smiles in a rehearsal room](IN DEVELOPMENT.jpg)
