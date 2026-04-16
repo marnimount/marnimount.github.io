@@ -26,5 +26,5 @@ You can follow Marni [on instagram](https://www.instagram.com/marni.mount/) or c
 
 ![POTUS, Or Behind Every Great Dumbass Are Seven Women Trying To Keep Him Alive](potus.jpg)
 
-![minusonesister](minusonesister1.jpg)
+![minusonesister](minusonesister2.jpg)
 
