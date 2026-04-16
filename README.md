@@ -22,5 +22,9 @@ As a performer, Marni is represented by Buxstock Management. You can view her sh
 
 You can follow Marni [on instagram](https://www.instagram.com/marni.mount/) or contact her [via email](mailto:marni.mount@gmail.com) 
 ​
+![Trophy Boys](trophyboys.jpg)
 
+![POTUS, Or Behind Every Great Dumbass Are Seven Women Trying To Keep Him Alive](potus.jpg)
+
+![minusonesister](minusonesister1.jpg)
 
