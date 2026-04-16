@@ -20,7 +20,7 @@ Alongside her performing and directing practice, Marni is passionate about worki
 
 As a performer, Marni is represented by Buxstock Management. You can view her show reel and a full list of acting credits on [showcast](https://app.showcast.com.au/profile/marnimount).
 
-You can follow Marni [on instagram](instagram.com/marnimount) or contact her [via email](mailto:marni.mount@gmail.com) 
+You can follow Marni [on instagram](https://www.instagram.com/marni.mount/) or contact her [via email](mailto:marni.mount@gmail.com) 
 ​
 
 
