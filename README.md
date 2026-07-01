@@ -1,4 +1,4 @@
-![actor, director, dramaturg, maker. Marni Mount is a director, actor, and dramaturg living and working in Naarm (Melbourne).With a passion for new Australian writing and work that creatively engages with the canon, Marni makes work that is formally inventive, visually imaginative, and unafraid to take on big ideas.](pageheaderwithheadshot.jpg)
+![actor, director, dramaturg, maker. Marni Mount is a director, actor, and dramaturg living and working in Naarm (Melbourne).With a passion for new Australian writing and work that creatively engages with the canon, Marni makes work that is formally inventive, visually imaginative, and unafraid to take on big ideas.](pageheaderwithheadshot2.jpg)
 
 Marni has established a reputation as one of Australia's most promising emerging theatre directors following the breakout success of her critically acclaimed world premiere of *Trophy Boys* by Emmanuelle Mattana which she developed and directed, taking the show from a 15-page draft to multiple sellout national tours. 
 
