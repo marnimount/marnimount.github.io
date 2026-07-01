@@ -1,6 +1,6 @@
 # Marni Mount
 
-actor ⋅ director ⋅ dramaturg ⋅ maker
+#### actor ⋅ director ⋅ dramaturg ⋅ maker
 
 Marni Mount is a director, actor, and dramaturg living and working in Naarm (Melbourne).
 
@@ -12,7 +12,7 @@ Marni has worked extensively as an independent director and artist in Naarm, and
 
 Marni has been a beneficiary of the MinterEllison Future Directors Initiative at Melbourne Theatre Company (2025), the Malthouse Artist Development Program at Malthouse Theatre (2025), and the Red Stitch Actors Theatre Hansen Graduate Program (2024). She holds a Master of Theatre (Directing) from the Victorian College of the Arts, and a Bachelor of Arts/Bachelor of Politics, Philosophy, and Economics from the Australian National University. 
 
-In 2026 Marni directed the Melbourne premiere of *Never Closer* by Grace Chapple for [Patalog Theatre](https://www.patalogtheatre.com/) and [fortyfivedownstairs]([https://fortyfivedownstairs.com/](https://fortyfivedownstairs.com/event/never-closer/)). 
+In 2026 Marni directed the Melbourne premiere of *Never Closer* by Grace Chapple for [Patalog Theatre](https://www.patalogtheatre.com/) and [fortyfivedownstairs]([https://fortyfivedownstairs.com/](https://fortyfivedownstairs.com/event/never-closer/)), and will make her television debut in the ABC/Lingo Pictures limited series *Shakedown*.
 
 ![A white woman with brunette hair and glasses smiles in a rehearsal room](IN DEVELOPMENT.jpg)
 
@@ -22,12 +22,14 @@ As a performer, Marni is represented by Buxstock Management. You can view her sh
 
 You can follow Marni [on instagram](https://www.instagram.com/marni.mount/) or contact her [via email](mailto:marni.mount@gmail.com) 
 
-​
-![Trophy Boys](trophyboys.jpg)
+
+
+![Never Closer](nevercloser.jpg)
 
 ![POTUS, Or Behind Every Great Dumbass Are Seven Women Trying To Keep Him Alive](potus.jpg)
 
 ![minusonesister](minusonesister1.jpg)
+​
+![Trophy Boys](trophyboys.jpg)
 
-![Never Closer](nevercloser.jpg)
 
